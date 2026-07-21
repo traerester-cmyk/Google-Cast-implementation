@@ -1,4 +1,4 @@
-Google Cast implementation    
+Google Cast implementation.    
 A Google Cast session requires two main components: a Sender app that lets users discover devices and control playback, and a Receiver app loaded on the target device to process commands and render the media on the TV. [1, 2, 3]  
 The technical breakdown for building these components includes: 
 Sender Apps 
